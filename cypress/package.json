@@ -1,0 +1,9 @@
+{
+  "name": "w11-ui-lab-cypress",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ITDS362 UI testing lab: Cypress Part 4",
+  "devDependencies": {
+    "cypress": "16.2.1"
+  }
+}
